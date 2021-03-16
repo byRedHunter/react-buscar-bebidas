@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-buscar-bebidas/static/css/main.09ce8376.chunk.css",
+    "main.js": "/react-buscar-bebidas/static/js/main.6f11e9fb.chunk.js",
+    "main.js.map": "/react-buscar-bebidas/static/js/main.6f11e9fb.chunk.js.map",
+    "runtime-main.js": "/react-buscar-bebidas/static/js/runtime-main.7e956178.js",
+    "runtime-main.js.map": "/react-buscar-bebidas/static/js/runtime-main.7e956178.js.map",
+    "static/js/2.f4c2619e.chunk.js": "/react-buscar-bebidas/static/js/2.f4c2619e.chunk.js",
+    "static/js/2.f4c2619e.chunk.js.map": "/react-buscar-bebidas/static/js/2.f4c2619e.chunk.js.map",
+    "index.html": "/react-buscar-bebidas/index.html",
+    "static/css/main.09ce8376.chunk.css.map": "/react-buscar-bebidas/static/css/main.09ce8376.chunk.css.map",
+    "static/js/2.f4c2619e.chunk.js.LICENSE.txt": "/react-buscar-bebidas/static/js/2.f4c2619e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e956178.js",
+    "static/js/2.f4c2619e.chunk.js",
+    "static/css/main.09ce8376.chunk.css",
+    "static/js/main.6f11e9fb.chunk.js"
+  ]
+}
